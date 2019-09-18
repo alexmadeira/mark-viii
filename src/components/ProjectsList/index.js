@@ -18,7 +18,6 @@ function ProjectsList({ limit, order, type, name }) {
         const response = await api.get('projects', {
           params: { limit, order },
         });
-        console.tron.log('>> load by server');
         setProjects(response.data);
       }
     }
@@ -27,7 +26,6 @@ function ProjectsList({ limit, order, type, name }) {
 
   useEffect(() => {
     if (projects.length) {
-      console.tron.log('>> Set Local', projects);
       const localStore = {
         name: `@alex-madeira/PROJECTS/${name}`,
         value: projects,
@@ -42,7 +40,6 @@ function ProjectsList({ limit, order, type, name }) {
     if (!projectsList) {
       setLocalProjects(false);
     } else {
-      console.tron.log('>> load by Local');
       setProjects(projectsList);
     }
   }, [name]);
