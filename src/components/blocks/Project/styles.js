@@ -9,7 +9,6 @@ const entrada = keyframes`
 
 export const Container = styled.div`
   border: 1px solid #000;
-  cursor: pointer;
   flex: 1;
   margin-top: 15px;
   margin-bottom: 15px;

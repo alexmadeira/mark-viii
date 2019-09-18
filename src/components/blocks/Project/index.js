@@ -51,7 +51,9 @@ function Project({ item, type, nextProjectLink }) {
         setHover(false);
       }}
     >
-      <Button to={`/projeto/${item.slug}`} type="invisibile" className="" />
+      {type === 'simple' && (
+        <Button to={`/projeto/${item.slug}`} type="invisibile" className="" />
+      )}
       <Image
         src={item.preview.file}
         className={`${nextProjectLink && 'blur'} ${Hover && 'hover'}`}
