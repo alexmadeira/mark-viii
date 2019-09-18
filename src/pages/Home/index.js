@@ -8,7 +8,7 @@ import Button from '~/components/Buttons';
 
 import { Container, Crooked, Center, Basic, FigureBox, Title } from './styles';
 
-export default function Home() {
+function Home() {
   return (
     <>
       <Container>
@@ -22,7 +22,14 @@ export default function Home() {
               <Button to="/projetos" type="outline">
                 Projetos
               </Button>
-              <Button to="curriculo" type="outline">
+              <Button
+                external={{
+                  href: 'https://trampos.co/alexmadeira',
+                  target: '_blank',
+                  rel: 'noopener noreferrer',
+                }}
+                type="link"
+              >
                 Curriculo
               </Button>
             </Center>
@@ -60,3 +67,5 @@ export default function Home() {
     </>
   );
 }
+
+export default Home;

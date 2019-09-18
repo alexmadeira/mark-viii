@@ -28,6 +28,7 @@ function Buttons({ type, children, to, external }) {
     case 'link':
       return (
         <Outline
+          as="a"
           href={external.href}
           target={external.target}
           rel={external.rel}

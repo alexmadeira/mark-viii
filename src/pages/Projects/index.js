@@ -6,7 +6,7 @@ import Back from '~/components/blocks/Back';
 
 import { Container } from './styles';
 
-export default function Projects() {
+function Projects() {
   return (
     <>
       <Back to="/" text="Home" />
@@ -17,3 +17,4 @@ export default function Projects() {
     </>
   );
 }
+export default Projects;

@@ -15,6 +15,9 @@ html,
 body,
 #root {
   min-height: 100%;
+  display:flex;
+  flex-direction:column;
+  flex:1;
 }
 body, input, button{
   font-family: 'Architects Daughter', cursive;
