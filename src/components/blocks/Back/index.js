@@ -6,7 +6,6 @@ import Buttom from '~/components/Buttons';
 import { Container, Arrow, ArrowBox } from './styles';
 
 function Back({ text, to }) {
-  console.tron.log(text);
   return (
     <Container>
       <ArrowBox>
