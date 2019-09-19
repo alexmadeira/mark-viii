@@ -25,7 +25,7 @@ function Curriculo() {
         <Skills>bars</Skills>
       </LeftContent>
       <RightContent>
-        <img src="https://www.marcelogil.com/images/me.jpg" alt="" />
+        <img src="https://cataas.com/cat?width=840&height=640" alt="" />
       </RightContent>
     </Container>
   );
