@@ -11,6 +11,16 @@ export default function Footer() {
       <Social>
         <li>
           <a
+            href="https://bitbucket.org/alexmadeira5/"
+            target="_blank"
+            className="bitbucket"
+            rel="noopener noreferrer"
+          >
+            <i className="fas fa-code-branch" />
+          </a>
+        </li>
+        <li>
+          <a
             href="https://www.facebook.com/alex.c.madeira"
             target="_blank"
             className="facebook"

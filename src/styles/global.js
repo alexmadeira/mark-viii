@@ -18,6 +18,7 @@ body,
   display:flex;
   flex-direction:column;
   flex:1;
+  z-index: 1;
 }
 body, input, button{
   font-family: 'Architects Daughter', cursive;
