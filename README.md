@@ -44,6 +44,6 @@ Não há rotina de deploy, utilizo a ferramenta [buddy](https://buddy.works/ "bu
 
 
 
-## License
+## Licença
 
 Esse projeto não tem Licença mas sinta-se a vontade para olhar baixar copiar nao tem problema :)
