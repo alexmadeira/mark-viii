@@ -43,7 +43,7 @@ Seguindo a style guide do [Airbnb](https://github.com/airbnb/javascript 'Airbnb'
 
 ### Deploy
 
-Não há rotina de deploy, utilizo a ferramenta [buddy](https://buddy.works/ 'buddy'), para controlar os pipelines
+Utilizo a ferramenta [buddy](https://buddy.works/ 'buddy'), para controlar os pipelines e a CI 
 
 ## Autor
 
