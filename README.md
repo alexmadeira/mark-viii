@@ -4,7 +4,7 @@ Meu portfólio, até eu resolver mudar ele de novo.
 
 ## Preview
 
-[![Portfólio Alex Madeira](https://www.alexmadeira.com.br/preview.png)](https://www.alexmadeira.com.br)
+[![Portfólio Alex Madeira](public/preview.png)](https://www.alexmadeira.com.br)
 
 ## Começando
 
