@@ -1,4 +1,4 @@
-# Alex Madeira (Mark VIII)
+# Alex Madeira (Mark VIII) [![Netlify Status](https://api.netlify.com/api/v1/badges/3bb6b666-b12f-40f7-8836-17c52644ae2b/deploy-status)](https://app.netlify.com/sites/upbeat-lichterman-44a778/deploys)
 
 Meu portfólio, até eu resolver mudar ele de novo.
 
@@ -43,7 +43,8 @@ Seguindo a style guide do [Airbnb](https://github.com/airbnb/javascript 'Airbnb'
 
 ### Deploy
 
-Utilizo a ferramenta [buddy](https://buddy.works/ 'buddy'), para controlar os pipelines e a CI 
+- Utilizo a ferramenta [buddy](https://buddy.works/ 'buddy'), para controlar os pipelines e a CI do Back-end
+- Utilizo a plataforma [netlify]("https://www.netlify.com/"), para servir os arquivos estático (Font-end)
 
 ## Autor
 
