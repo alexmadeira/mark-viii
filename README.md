@@ -52,4 +52,8 @@ Seguindo a style guide do [Airbnb](https://github.com/airbnb/javascript 'Airbnb'
 
 ## Licença
 
-Esse projeto não tem Licença mas sinta-se a vontade para olhar baixar copiar nao tem problema :)
+Copyright by [Alex Madeira](https://alexmadeira.com.br/).
+
+Sinta-se a vontade para olhar baixar copiar não tem problema :)
+
+MIT license.
