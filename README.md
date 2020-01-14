@@ -1,4 +1,8 @@
-# Alex Madeira (Mark VIII) [![Netlify Status](https://api.netlify.com/api/v1/badges/3bb6b666-b12f-40f7-8836-17c52644ae2b/deploy-status)](https://app.netlify.com/sites/upbeat-lichterman-44a778/deploys)
+# Alex Madeira (Mark VIII) 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3bb6b666-b12f-40f7-8836-17c52644ae2b/deploy-status)](https://app.netlify.com/sites/upbeat-lichterman-44a778/deploys)
+
+![License MIT](https://img.shields.io/badge/license-MIT-green)
 
 Meu portfólio, até eu resolver mudar ele de novo.
 
