@@ -44,7 +44,7 @@ Seguindo a style guide do [Airbnb](https://github.com/airbnb/javascript 'Airbnb'
 ### Deploy
 
 - Utilizo a ferramenta [buddy](https://buddy.works/ 'buddy'), para controlar os pipelines e a CI do Back-end
-- Utilizo a plataforma [netlify]("https://www.netlify.com/"), para servir os arquivos estático (Font-end)
+- Utilizo a plataforma [netlify]("https://www.netlify.com/"), para servir os arquivos estáticos (Font-end)
 
 ## Autor
 
