@@ -35,11 +35,11 @@ npm  ou yarn
 4. yarn start ou npm run start
 ```
 
-O projeto vai abrir altomaticamente em [http://localhost:3000/](http://localhost:3000/ 'http://localhost:3000/')
+O projeto vai abrir automaticamente em [http://localhost:3000/](http://localhost:3000/ 'http://localhost:3000/')
 
 ## Padronização de código
 
-no projeto utilozo
+No projeto utilizo
 
 ```
 1. Prettierrc
@@ -47,7 +47,7 @@ no projeto utilozo
 3. Eslint
 ```
 
-Seguindo a style guide do [Airbnb](https://github.com/airbnb/javascript 'Airbnb').
+- Seguindo a style guide do [Airbnb](https://github.com/airbnb/javascript 'Airbnb').
 
 ### Deploy
 
@@ -62,6 +62,6 @@ Seguindo a style guide do [Airbnb](https://github.com/airbnb/javascript 'Airbnb'
 
 Copyright by [Alex Madeira](https://alexmadeira.com.br/).
 
-Sinta-se a vontade para olhar baixar copiar não tem problema :)
+Sinta-se a vontade para olhar, baixar, copiar, não tem problema :)
 
 MIT license.
