@@ -4,6 +4,10 @@
 
 ![License MIT](https://img.shields.io/badge/license-MIT-green)
 
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier) [![js-airbnb-style](https://img.shields.io/badge/code%20style-airbnb-ff69b4.svg)](https://github.com/airbnb/javascript)
+
+[![Made By Alex Madeira](https://img.shields.io/badge/%20made%20by-Alex%20Madeira-blue)](https://www.alexmadeira.com.br/)
+
 Meu portfólio, até eu resolver mudar ele de novo.
 
 ## Preview
