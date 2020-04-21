@@ -55,14 +55,14 @@ function Project({ item, type, nextProjectLink }) {
         <Button to={`/projeto/${item.slug}`} type="invisibile" className="" />
       )}
       <Image
-        src={item.preview.file}
+        src={item.preview.url}
         className={`${nextProjectLink && 'blur'} ${Hover && 'hover'}`}
         alt={item.preview.name}
       />
 
       {nextProjectLink && <NextProjectOverlay className={Hover && 'hover'} />}
       <Logo className={`logo ${Open && 'open'} ${nextProjectLink && 'center'}`}>
-        <img src={item.logo.file} alt={item.logo.name} />
+        <img src={item.logo.url} alt={item.logo.name} />
       </Logo>
       {!nextProjectLink && (
         <TitleBox className="title">

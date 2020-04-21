@@ -41,7 +41,7 @@ function Home() {
           </Title>
           <FigureBox>
             <img
-              src="https://s3-sa-east-1.amazonaws.com/alex-madeira/imagens/geral/Responsive.jpg"
+              src="http://alexmadeira.sirv.com/mark-viii/imagens/geral/Responsive.jpg"
               alt="responsive"
             />
           </FigureBox>

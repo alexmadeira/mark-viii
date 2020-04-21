@@ -25,7 +25,7 @@ export default function Banner() {
               transform: 'translate(-10%,0)',
             }}
           >
-            <ImageFull src="https://s3-sa-east-1.amazonaws.com/alex-madeira/imagens/geral/banner/7.png" />
+            <ImageFull src="http://alexmadeira.sirv.com/mark-viii/imagens/geral/banner/7.png" />
           </ParallaxMousemove.Layer>
           <ParallaxMousemove.Layer
             config={{
@@ -38,7 +38,7 @@ export default function Banner() {
               transform: 'translate(-10%,0)',
             }}
           >
-            <ImageFull src="https://s3-sa-east-1.amazonaws.com/alex-madeira/imagens/geral/banner/5.png" />
+            <ImageFull src="http://alexmadeira.sirv.com/mark-viii/imagens/geral/banner/5.png" />
           </ParallaxMousemove.Layer>
 
           <ParallaxMousemove.Layer
@@ -52,7 +52,7 @@ export default function Banner() {
               transform: 'translate(0,15%)',
             }}
           >
-            <ImageFull src="https://s3-sa-east-1.amazonaws.com/alex-madeira/imagens/geral/banner/6.png" />
+            <ImageFull src="http://alexmadeira.sirv.com/mark-viii/imagens/geral/banner/6.png" />
           </ParallaxMousemove.Layer>
 
           <ParallaxMousemove.Layer
@@ -66,7 +66,7 @@ export default function Banner() {
               transform: 'translate(-10%,0)',
             }}
           >
-            <ImageFull src="https://s3-sa-east-1.amazonaws.com/alex-madeira/imagens/geral/banner/4.png" />
+            <ImageFull src="http://alexmadeira.sirv.com/mark-viii/imagens/geral/banner/4.png" />
           </ParallaxMousemove.Layer>
           <ParallaxMousemove.Layer
             config={{
@@ -79,7 +79,7 @@ export default function Banner() {
               transform: 'translate(-10%,0)',
             }}
           >
-            <ImageFull src="https://s3-sa-east-1.amazonaws.com/alex-madeira/imagens/geral/banner/3.png" />
+            <ImageFull src="http://alexmadeira.sirv.com/mark-viii/imagens/geral/banner/3.png" />
           </ParallaxMousemove.Layer>
           <ParallaxMousemove.Layer
             config={{
@@ -92,7 +92,7 @@ export default function Banner() {
               transform: 'translate(-10%,8%)',
             }}
           >
-            <ImageFull src="https://s3-sa-east-1.amazonaws.com/alex-madeira/imagens/geral/banner/2.png" />
+            <ImageFull src="http://alexmadeira.sirv.com/mark-viii/imagens/geral/banner/2.png" />
           </ParallaxMousemove.Layer>
           <ParallaxMousemove.Layer
             config={{
@@ -105,7 +105,7 @@ export default function Banner() {
               transform: 'translate(-5%,5%)',
             }}
           >
-            <ImageFull src="https://s3-sa-east-1.amazonaws.com/alex-madeira/imagens/geral/banner/1.png" />
+            <ImageFull src="http://alexmadeira.sirv.com/mark-viii/imagens/geral/banner/1.png" />
           </ParallaxMousemove.Layer>
 
           <ParallaxMousemove.Layer
@@ -119,7 +119,7 @@ export default function Banner() {
               transform: 'translate(-5%,15%)',
             }}
           >
-            <ImageFull src="https://s3-sa-east-1.amazonaws.com/alex-madeira/imagens/geral/banner/alex.png" />
+            <ImageFull src="http://alexmadeira.sirv.com/mark-viii/imagens/geral/banner/alex.png" />
           </ParallaxMousemove.Layer>
           <ParallaxMousemove.Layer
             config={{
@@ -132,7 +132,7 @@ export default function Banner() {
               transform: 'translate(-5%,0)',
             }}
           >
-            <ImageFull src="https://s3-sa-east-1.amazonaws.com/alex-madeira/imagens/geral/banner/logo.png" />
+            <ImageFull src="http://alexmadeira.sirv.com/mark-viii/imagens/geral/banner/logo.png" />
           </ParallaxMousemove.Layer>
           <ParallaxMousemove.Layer
             config={{
@@ -145,7 +145,7 @@ export default function Banner() {
               transform: 'translate(-5%,0)',
             }}
           >
-            <ImageFull src="https://s3-sa-east-1.amazonaws.com/alex-madeira/imagens/geral/banner/assinatura_full.png" />
+            <ImageFull src="http://alexmadeira.sirv.com/mark-viii/imagens/geral/banner/assinatura_full.png" />
           </ParallaxMousemove.Layer>
         </ParallaxMousemove>
       </Link>

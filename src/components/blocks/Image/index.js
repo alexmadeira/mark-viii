@@ -9,7 +9,7 @@ function Image({ src, alt, title, className }) {
   return (
     <Container className={className}>
       <Preload
-        src={`${src}?thumb=true`}
+        src={`${src}?w=100`}
         alt={alt}
         className={`${loadImage && 'hidden'} `}
       />
