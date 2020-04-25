@@ -6,7 +6,7 @@ export default function Badges() {
   return (
     <div className="cssdaBadge">
       <a
-        href="http://www.cssdesignawards.com/"
+        href="https://www.cssdesignawards.com/sites/alex-madeira-portfolio/37001/"
         target="_blank"
         rel="noopener noreferrer"
       >
