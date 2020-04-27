@@ -5,6 +5,7 @@ import Banner from '~/components/Banner';
 import ProjectsList from '~/components/ProjectsList';
 
 import Button from '~/components/Buttons';
+import Awards from '~/components/Awards';
 
 import { Container, Crooked, Center, Basic, FigureBox, Title } from './styles';
 
@@ -13,7 +14,9 @@ function Home() {
     <>
       <Container>
         <Banner />
+
         <Crooked>
+          <Awards />
           <ProjectsList limit={6} order="asc" type="simple" name="HOME" />
           <Basic reverse top="-40px">
             <h3>Quer saber mais? </h3>

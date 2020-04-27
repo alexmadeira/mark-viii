@@ -2,12 +2,10 @@ import React from 'react';
 import ParallaxMousemove from 'react-parallax-mousemove';
 
 import { Container, Link, ImageFull } from './styles';
-import Badges from '~/components/Badges';
 
 export default function Banner() {
   return (
     <Container>
-      <Badges />
       <Link
         href="https://www.artstation.com/paulovieira"
         target="_blank"
