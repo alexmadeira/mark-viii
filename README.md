@@ -1,4 +1,8 @@
-# Alex Madeira (Mark VIII) 
+<p align="center">
+  <img src="https://alexmadeira.sirv.com/mark-viii/imagens/geral/banner/logo.png?cx=700&cy=320&cw=300&ch=150"  width="200" alt="best innovation" />
+</p>
+
+# Mark VIII
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e2faf437-fece-4fea-9d6e-9ce008aad238/deploy-status)](https://app.netlify.com/sites/unruffled-torvalds-0613e5/deploys)
 
@@ -7,6 +11,16 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier) [![js-airbnb-style](https://img.shields.io/badge/code%20style-airbnb-ff69b4.svg)](https://github.com/airbnb/javascript)
 
 [![Made By Alex Madeira](https://img.shields.io/badge/%20made%20by-Alex%20Madeira-blue)](https://www.alexmadeira.com.br/)
+
+## Premiações
+
+<p>
+  <img src="https://alexmadeira.sirv.com/mark-viii/imagens/geral/cssda/best-innovation-purple.png"  width="60" alt="best innovation" />
+  <img src="https://alexmadeira.sirv.com/mark-viii/imagens/geral/cssda/best-ui-white.png"  width="60" alt="best ui" />
+  <img src="https://alexmadeira.sirv.com/mark-viii/imagens/geral/cssda/best-ux-black.png"  width="60" alt="best ux" />
+</p>
+
+## Descrição
 
 Meu portfólio, até eu resolver mudar ele de novo.
 
