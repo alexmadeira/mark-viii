@@ -1,7 +1,8 @@
 import React from 'react';
 import ParallaxMousemove from 'react-parallax-mousemove';
 
-import { Container, Link, ImageFull } from './styles';
+import { Container, Link, ImageFull, AwardsBox } from './styles';
+import Awards from '~/components/Awards';
 
 export default function Banner() {
   return (
@@ -133,6 +134,22 @@ export default function Banner() {
             }}
           >
             <ImageFull src="https://alexmadeira.sirv.com/mark-viii/imagens/geral/banner/logo.png" />
+          </ParallaxMousemove.Layer>
+          <ParallaxMousemove.Layer
+            config={{
+              xFactor: 0,
+              yFactor: 0,
+            }}
+            layerStyle={{
+              width: '100%',
+              height: '100%',
+              position: 'absolute',
+              transform: 'translate(0,0)',
+            }}
+          >
+            <AwardsBox>
+              <Awards />
+            </AwardsBox>
           </ParallaxMousemove.Layer>
           <ParallaxMousemove.Layer
             config={{

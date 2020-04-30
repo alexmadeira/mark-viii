@@ -23,3 +23,11 @@ export const ImageFull = styled.img`
   width: 110%;
   min-width: 100%;
 `;
+
+export const AwardsBox = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+`;
