@@ -25,9 +25,9 @@ function Home() {
               </Button>
               <Button
                 external={{
-                  href: 'https://trampos.co/alexmadeira',
+                  href: '/alex_madeira_curriculo.pdf',
                   target: '_blank',
-                  rel: 'noopener noreferrer',
+                  rel: '',
                 }}
                 type="link"
               >
