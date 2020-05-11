@@ -46,8 +46,8 @@ export const Social = styled.ul`
       -o-transition: color 0.2s ease-out;
       transition: color 0.2s ease-out;
       &:hover {
-        &.bitbucket {
-          color: #0052cc;
+        &.github {
+          color: #000;
         }
         &.facebook {
           color: #3b5998;

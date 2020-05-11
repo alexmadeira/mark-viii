@@ -11,9 +11,9 @@ export default function Footer() {
       <Social>
         <li>
           <a
-            href="https://bitbucket.org/alexmadeira5/"
+            href="https://github.com/alexmadeira/"
             target="_blank"
-            className="bitbucket"
+            className="github"
             rel="noopener noreferrer"
           >
             <i className="fas fa-code-branch" />
